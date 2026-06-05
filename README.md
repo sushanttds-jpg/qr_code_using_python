@@ -6,5 +6,7 @@ A simple, fast Python script to generate custom QR codes from any text or URL in
 
 Before running the script, ensure you have the required library installed:
 
-```bash
-pip install "qrcode[pil]"
+I suggest you to use this 👇
+
+    ```bash
+          pip install "qrcode[pil]"
